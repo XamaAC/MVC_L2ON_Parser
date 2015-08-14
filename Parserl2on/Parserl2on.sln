@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parserl2on", "Parserl2on\Parserl2on.csproj", "{FF020D9C-A9B1-4CFA-A8B1-55A906DCB9A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parserl2on.Tests", "Parserl2on.Tests\Parserl2on.Tests.csproj", "{5525C5E0-3780-4768-AD54-F5F78B4F440B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF020D9C-A9B1-4CFA-A8B1-55A906DCB9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF020D9C-A9B1-4CFA-A8B1-55A906DCB9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF020D9C-A9B1-4CFA-A8B1-55A906DCB9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF020D9C-A9B1-4CFA-A8B1-55A906DCB9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5525C5E0-3780-4768-AD54-F5F78B4F440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5525C5E0-3780-4768-AD54-F5F78B4F440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5525C5E0-3780-4768-AD54-F5F78B4F440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5525C5E0-3780-4768-AD54-F5F78B4F440B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
